@@ -1,0 +1,2 @@
+# Possum-Morphometrics-Analysis-Cleaning-Hypothesis-Testing-and-Regression-Modeling
+This project applies rigorous data cleaning, outlier treatment, exploratory analysis, hypothesis testing, and regression modeling on possum biological data. The workflow transforms noisy real-world data into reliable insights, identifying key predictors of body length and validating findings through statistical tests.
